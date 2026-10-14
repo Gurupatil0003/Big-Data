@@ -3,7 +3,6 @@
 https://medium.com/@gurupatil327/hdfs-hadoop-file-system-7535842a60b9?postPublishedType=initial
 
 ## JavaInterface
-```python
 # Java Interface in Hadoop (HDFS)
 
 In Hadoop, Java Interface refers to using the Hadoop Java API to interact with HDFS (Hadoop Distributed File System).
@@ -47,7 +46,7 @@ The Hadoop Java API allows applications to:
 
 This program creates a file named `students.txt` inside the `/student` directory in HDFS and writes student details into it.
 
-```
+```python
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
