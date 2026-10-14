@@ -135,3 +135,12 @@ Ravi 90
 | Delete a directory | `fs.delete(path, true)` | Deletes a directory and its contents recursively. |
 
 
+## 6. Java API vs Hadoop Commands
+
+| Hadoop Commands | Hadoop Java API |
+|---|---|
+| Executed through a terminal. | Used inside Java applications. |
+| Good for manual operations. | Good for automated operations. |
+| Example: `hdfs dfs -ls /student` | Example: `fs.listStatus(path)` |
+| Requires Hadoop command-line access. | Requires Hadoop Java libraries and filesystem configuration. |
+
