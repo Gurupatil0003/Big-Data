@@ -2,7 +2,7 @@
 
 https://medium.com/@gurupatil327/hdfs-hadoop-file-system-7535842a60b9?postPublishedType=initial
 
-## JavaInterface
+# Java Interface
 # Java Interface in Hadoop (HDFS)
 
 In Hadoop, Java Interface refers to using the Hadoop Java API to interact with HDFS (Hadoop Distributed File System).
